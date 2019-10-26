@@ -5,7 +5,7 @@
 ## Rules
 
 1. Must use JavaScript
-2. Cannot look at the real code before finishing the challenge
+2. Can't look to the real code before finishing the challenge
 3. Doesn't need to be a complete solution
 4. Avoid libraries use
 5. **Must to be fun**
